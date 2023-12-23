@@ -1,4 +1,4 @@
-# FoodApplication-Random-Name
+# FoodApplication
 Basic Food ordering application wihich displays json file request outputs.
 /////////////////  This Application is built for practice purpose. /////////////////
 This application has various functions like logging in , verification of login details , displaying the list of restaurants, adding the restaurants to favourites.
